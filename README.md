@@ -29,9 +29,7 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 [Datasets](#datasets)
 
-[Benchmarks] (#benchmarks)
-
-[GitHub repos](#github-repos)
+[Benchmarks](#benchmarks)
 
 [Awesome libraries on Github](#awesome-libraries-on-Github)
 
@@ -96,7 +94,6 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 - https://github.com/hh-xiaohu/Image-augementation-pytorch
 - https://github.com/GZWQ/Awesome-Long-Tailed
 - https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning
-
 
 ### Books
 - [Imbalanced Classification with Python: Better Metrics, Balance Skewed Classes, Cost-Sensitive Learning by by Jason Brownlee](https://www.amazon.com/Imbalanced-Classification-Python-Cost-Sensitive-Learning/dp/B09FP165TZ/)
