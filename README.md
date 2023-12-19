@@ -84,16 +84,15 @@ Started By [Kumar Abhishek]
 
 ### Libraries, Tools and Frameworks
 
-- [imbalanced-learn]([https://link-to-tool](https://imbalanced-learn.org/))
-- [SMOTE and Other Techniques](https://link-to-tool)
+- [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
+- [SMOTE-variants for imbalanced learning](https://github.com/analyticalmindsltd/smote_variants)
+- [imbalanced-DL: Deep Imbalanced Learning in Python](https://github.com/ntucllab/imbalanced-DL)
+- [IMBENS: Class-imbalanced Ensemble Learning in Python](https://github.com/ZhiningLiu1998/imbalanced-ensemble)
+- [MESA: Meta-sampler for imbalanced learning](https://github.com/ZhiningLiu1998/mesa)
 
 ### Datasets
 
 - [Imbalanced Dataset Repositories](https://link-to-dataset)
-
-### GitHub repos
-
-- https://github.com/ntucllab/imbalanced-DL
 
 ### awesome-libraries on Github
 
