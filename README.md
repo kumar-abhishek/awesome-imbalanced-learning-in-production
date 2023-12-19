@@ -29,6 +29,8 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 [Datasets](#datasets)
 
+[Benchmarks] (#benchmarks)
+
 [GitHub repos](#github-repos)
 
 [Awesome libraries on Github](#awesome-libraries-on-Github)
@@ -79,7 +81,11 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 ### Datasets
 
-- [Imbalanced Dataset Repositories](https://link-to-dataset)
+- [CIFAR10-LT and CIFAR100-LT](https://github.com/kaidic/LDAM-DRW/blob/master/imbalance_cifar.py)
+
+### Benchmarks
+- [Leaderboard: Long-tail Learning on CIFAR-10-LT (ρ=10)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-10-lt-r-10)
+- [Leaderboard: Long-tail Learning on CIFAR-100-LT (ρ=100)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-100-lt-r-100)
 
 ### awesome-libraries on Github
 
