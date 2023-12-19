@@ -29,6 +29,10 @@ Started By [Kumar Abhishek]
 
 [Datasets](#datasets)
 
+[GitHub repos] (#gitHub-repos)
+
+[Awesome libraries on Github](#awesome-libraries-on-Github)
+
 [Books](#books)
 
 ### Case Studies
@@ -53,6 +57,9 @@ Started By [Kumar Abhishek]
 
 - [Imbalanced Dataset Repositories](https://link-to-dataset)
 
+### GitHub repos
+
+- https://github.com/ntucllab/imbalanced-DL
 
 ### awesome-libraries on Github
 
