@@ -56,13 +56,13 @@ Started By [Kumar Abhishek]
 
 ### awesome-libraries on Github
 
-https://github.com/Stomach-ache/awesome-long-tail-learning
-https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/
-https://github.com/CoinCheung/pytorch-loss
-https://github.com/ZhugeKongan/torch-template-for-deep-learning
-https://github.com/hh-xiaohu/Image-augementation-pytorch
-https://github.com/GZWQ/Awesome-Long-Tailed
-https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning
+- https://github.com/Stomach-ache/awesome-long-tail-learning
+- https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/
+- https://github.com/CoinCheung/pytorch-loss
+- https://github.com/ZhugeKongan/torch-template-for-deep-learning
+- https://github.com/hh-xiaohu/Image-augementation-pytorch
+- https://github.com/GZWQ/Awesome-Long-Tailed
+- https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning
 
 
 ### Books
