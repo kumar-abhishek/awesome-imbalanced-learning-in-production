@@ -13,7 +13,7 @@ This is a curated list of resources showcasing how different companies have tack
 
 Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-design)
 
-Started By [Your Name]
+Started By [Kumar Abhishek]
 
 ## Contents
 
@@ -44,12 +44,24 @@ Started By [Your Name]
 
 ### Tools and Frameworks
 
-- [Imbalanced-Learn](https://link-to-tool)
+- [imbalanced-learn]([https://link-to-tool](https://imbalanced-learn.org/))
 - [SMOTE and Other Techniques](https://link-to-tool)
 
 ### Datasets
 
 - [Imbalanced Dataset Repositories](https://link-to-dataset)
+
+
+### awesome-libraries on Github
+
+https://github.com/Stomach-ache/awesome-long-tail-learning
+https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/
+https://github.com/CoinCheung/pytorch-loss
+https://github.com/ZhugeKongan/torch-template-for-deep-learning
+https://github.com/hh-xiaohu/Image-augementation-pytorch
+https://github.com/GZWQ/Awesome-Long-Tailed
+https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning
+
 
 ### Books
 
