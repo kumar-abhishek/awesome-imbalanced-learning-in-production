@@ -25,11 +25,11 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 [Videos](#videos)
 
-[Tools and Frameworks](#tools-and-frameworks)
+[Libraries, Tools and Frameworks](#tools-and-frameworks)
 
 [Datasets](#datasets)
 
-[GitHub repos] (#gitHub-repos)
+[GitHub repos](#github-repos)
 
 [Awesome libraries on Github](#awesome-libraries-on-Github)
 
@@ -67,7 +67,6 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 | [Natalie Hockham: Machine learning with imbalanced data sets](https://www.youtube.com/watch?v=X9MZtvvQDR4) | GoCardless | 2015 |
 | [PyData Tel Aviv Meetup: GANs for Imbalanced Classification Problems - Moshe Salhov](https://www.youtube.com/watch?v=jy4DVV5bFWc) | Playtika | 2018 |
 | [Brendan Herger - Machine Learning Techniques for Class Imbalances & Adversaries](http://www.youtube.com/watch?v=u72FD79tsxA) | CapitalOne | 2016 |
-
 
 
 ### Libraries, Tools and Frameworks
