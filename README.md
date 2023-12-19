@@ -25,15 +25,12 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 [Videos](#videos)
 
-[Libraries, Tools and Frameworks](#tools-and-frameworks)
-
-[Datasets](#datasets)
-
-[Benchmarks](#benchmarks)
-
-[Awesome libraries on Github](#awesome-libraries-on-Github)
-
-[Books](#books)
+[Other general resources on the topic](#other-general-resources-on-the-topic)
+- [Libraries, Tools and Frameworks](#tools-and-frameworks)
+- [Datasets](#datasets)
+- [Benchmarks](#benchmarks)
+- [Awesome libraries on Github](#awesome-libraries-on-Github)
+- [Books](#books)
 
 ### Case Studies
 
@@ -68,8 +65,9 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 | [PyData Tel Aviv Meetup: GANs for Imbalanced Classification Problems - Moshe Salhov](https://www.youtube.com/watch?v=jy4DVV5bFWc) | Playtika | 2018 |
 | [Brendan Herger - Machine Learning Techniques for Class Imbalances & Adversaries](http://www.youtube.com/watch?v=u72FD79tsxA) | CapitalOne | 2016 |
 
+### Other general resources on the topic
 
-### Libraries, Tools and Frameworks
+#### Libraries, Tools and Frameworks
 
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 - [SMOTE-variants for imbalanced learning](https://github.com/analyticalmindsltd/smote_variants)
@@ -77,15 +75,15 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 - [IMBENS: Class-imbalanced Ensemble Learning in Python](https://github.com/ZhiningLiu1998/imbalanced-ensemble)
 - [MESA: Meta-sampler for imbalanced learning](https://github.com/ZhiningLiu1998/mesa)
 
-### Datasets
+#### Datasets
 
 - [CIFAR10-LT and CIFAR100-LT](https://github.com/kaidic/LDAM-DRW/blob/master/imbalance_cifar.py)
 
-### Benchmarks
+#### Benchmarks
 - [Leaderboard: Long-tail Learning on CIFAR-10-LT (ρ=10)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-10-lt-r-10)
 - [Leaderboard: Long-tail Learning on CIFAR-100-LT (ρ=100)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-100-lt-r-100)
 
-### awesome-libraries on Github
+#### awesome-libraries on Github
 
 - https://github.com/Stomach-ache/awesome-long-tail-learning
 - https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/
@@ -95,7 +93,7 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 - https://github.com/GZWQ/Awesome-Long-Tailed
 - https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning
 
-### Books
+#### Books
 - [Imbalanced Classification with Python: Better Metrics, Balance Skewed Classes, Cost-Sensitive Learning by by Jason Brownlee](https://www.amazon.com/Imbalanced-Classification-Python-Cost-Sensitive-Learning/dp/B09FP165TZ/)
 - [Learning from Imbalanced Data by Alberto Fernández, Salvador García, Mikel Galar, et al. ](https://www.amazon.com/Learning-Imbalanced-Data-Alberto-Fern%C3%A1ndez-ebook/dp/B07FM9PLWN/)
 - [Imbalanced Learning: Foundations, Algorithms, and Applications](https://www.amazon.com/Imbalanced-Learning-Foundations-Algorithms-Applications-ebook/dp/B00DAB28YM)
