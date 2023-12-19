@@ -17,8 +17,6 @@ This is a curated list of resources showcasing how different companies have tack
 
 Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-design)
 
-Started By [Kumar Abhishek]
-
 ## Contents
 
 [Case Studies](#case-studies)
