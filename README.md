@@ -1,4 +1,6 @@
-# Awesome Imbalanced Learning in Production
+<div align="center">
+   <h1> Awesome Imbalanced Learning in Production</h1>
+</div>
 
 <p align="center">
   <img src="logo.png" align="center" width="350">
@@ -9,7 +11,7 @@
   </a>
 </p>
 
-If you find this content insightful, feel free to support with a 👍| ⭐| 👏
+If you find this content insightful, feel free to support with a ⭐
 
 This is a curated list of resources showcasing how different companies have tackled the challenge of imbalanced data in production environments. It's a valuable resource for professionals dealing with similar issues in machine learning and data science.
 
