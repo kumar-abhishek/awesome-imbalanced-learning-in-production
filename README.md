@@ -78,10 +78,27 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 #### Datasets
 
 - [CIFAR10-LT and CIFAR100-LT](https://github.com/kaidic/LDAM-DRW/blob/master/imbalance_cifar.py)
+- [Long-tailed Datasets](https://paperswithcode.com/task/long-tail-learning)
+- [Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf): Statistics of Long-Tailed Datasets:
+
+| Task                  | Dataset            | # Classes | # Training Data | # Test Data |
+|-----------------------|--------------------|-----------|-----------------|-------------|
+| Image Classification  | ImageNet-LT [15]   | 1,000     | 115,846         | 50,000      |
+|                       | CIFAR100-LT [18]   | 100       | 50,000          | 10,000      |
+|                       | Places-LT [15]     | 365       | 62,500          | 36,500      |
+|                       | iNaturalist 2018 [23] | 8,142   | 437,513         | 24,426      |
+| Object Detection/Instance Segmentation | LVIS v0.5 [36] | 1,230 | 57,000 | 20,000 |
+|                       | LVIS v1 [36]       | 1,203     | 100,000         | 19,800      |
+| Multi-label Classification | VOC-LT [37]   | 20        | 1,142           | 4,952       |
+|                       | COCO-LT [37]       | 80        | 1,909           | 5,000       |
+| Video Classification  | VideoLT [38]       | 1,004     | 179,352         | 51,244      |
+
+
 
 #### Benchmarks
 - [Leaderboard: Long-tail Learning on CIFAR-10-LT (ρ=10)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-10-lt-r-10)
 - [Leaderboard: Long-tail Learning on CIFAR-100-LT (ρ=100)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-100-lt-r-100)
+- [Long-tail Learning Benchmarks](https://paperswithcode.com/task/long-tail-learning)
 
 #### awesome-libraries on Github
 
