@@ -1,6 +1,8 @@
 # Awesome Imbalanced Learning in Production
 
-<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/logo.png" align="center" width="850">
+<p align="center">
+  <img src="logo.png" align="center" width="350">
+</p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
@@ -42,7 +44,7 @@ Started By [Kumar Abhishek]
 
 - [Balancing the Data: Industry Talks](https://link-to-video)
 
-### Tools and Frameworks
+### Libraries, Tools and Frameworks
 
 - [imbalanced-learn]([https://link-to-tool](https://imbalanced-learn.org/))
 - [SMOTE and Other Techniques](https://link-to-tool)
@@ -64,8 +66,10 @@ https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-
 
 
 ### Books
-
-- [Learning from Imbalanced Data](https://link-to-book)
+- [Imbalanced Classification with Python: Better Metrics, Balance Skewed Classes, Cost-Sensitive Learning by by Jason Brownlee] (https://www.amazon.com/Imbalanced-Classification-Python-Cost-Sensitive-Learning/dp/B09FP165TZ/)
+- [Learning from Imbalanced Data by Alberto Fernández, Salvador García, Mikel Galar, et al. ](https://www.amazon.com/Learning-Imbalanced-Data-Alberto-Fern%C3%A1ndez-ebook/dp/B07FM9PLWN/)
+- [Imbalanced Learning: Foundations, Algorithms, and Applications](https://www.amazon.com/Imbalanced-Learning-Foundations-Algorithms-Applications-ebook/dp/B00DAB28YM)
+- [Machine Learning for Imbalanced Data: Tackle imbalanced datasets using machine learning and deep learning techniques](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830/)
 
 ---
 
