@@ -1,3 +1,5 @@
+Get ideas from https://github.com/valeman/awesome-conformal-prediction 
+
 <div align="center">
    <h1> Awesome Imbalanced Learning in Production</h1>
 </div>
