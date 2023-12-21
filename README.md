@@ -1,6 +1,6 @@
 <div align="center">
    <h1 >
-      :hourglass_flowing_sand: **[DRAFT] Work in Progress** :hourglass_flowing_sand:"
+      :hourglass_flowing_sand: **[DRAFT] Work in Progress** :hourglass_flowing_sand:. Help needed, contact me if you are willing to contribute. 
    </h1>
 </div>
 
