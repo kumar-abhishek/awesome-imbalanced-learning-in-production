@@ -115,6 +115,7 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 - https://github.com/hh-xiaohu/Image-augementation-pytorch
 - https://github.com/GZWQ/Awesome-Long-Tailed
 - https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning
+- https://gitee.com/liuziyang1106/awesome-imbalanced-learning
 
 #### Books
 - [Imbalanced Classification with Python: Better Metrics, Balance Skewed Classes, Cost-Sensitive Learning by by Jason Brownlee](https://www.amazon.com/Imbalanced-Classification-Python-Cost-Sensitive-Learning/dp/B09FP165TZ/)
