@@ -25,6 +25,18 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 ## Contents
 
+Data Imbalance introduction
+Oversampling Methods
+Undersampling Methods
+Ensemble Methods
+Cost-Sensitive Learning
+Data Imbalance in Deep Learning
+Data-Level Deep Learning Methods
+Algorithm-Level Deep Learning Techniques
+Hybrid Deep Learning Methods
+Model Calibration
+Machine learning pipeline in production
+
 [Case Studies](#case-studies)
 
 [Articles](#articles)
