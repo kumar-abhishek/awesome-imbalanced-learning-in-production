@@ -80,6 +80,7 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 - [imbalanced-DL: Deep Imbalanced Learning in Python](https://github.com/ntucllab/imbalanced-DL)
 - [IMBENS: Class-imbalanced Ensemble Learning in Python](https://github.com/ZhiningLiu1998/imbalanced-ensemble)
 - [MESA: Meta-sampler for imbalanced learning](https://github.com/ZhiningLiu1998/mesa)
+- [Python-based implementations of algorithms for learning on imbalanced data](https://github.com/dialnd/imbalanced-algorithms)
 
 #### Datasets
 
