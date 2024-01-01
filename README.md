@@ -1,10 +1,4 @@
 <div align="center">
-   <h1 >
-      :hourglass_flowing_sand: **[DRAFT] Work in Progress** :hourglass_flowing_sand:. Help needed, contact me if you are willing to contribute. 
-   </h1>
-</div>
-
-<div align="center">
    <h1> Awesome Imbalanced Learning in Production</h1>
 </div>
 
@@ -25,15 +19,15 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 ## Contents
 
-Oversampling Methods
-Undersampling Methods
-Ensemble Methods
-Cost-Sensitive Learning
-Data Imbalance in Deep Learning
-Data-Level Deep Learning Methods
-Algorithm-Level Deep Learning Techniques
-Hybrid Deep Learning Methods
-Model Calibration
+- [Oversampling Methods](#oversampling-methods)
+- [Undersampling Methods](#undersampling-methods)
+- [Ensemble Methods](#ensemble-methods)
+- [Cost-Sensitive Learning](#cost-sensitive-learning)
+- [Data Imbalance in Deep Learning](#data-imbalance-in-deep-learning)
+- [Data-Level Deep Learning Methods](#data-level-deep-learning-methods)
+- [Algorithm-Level Deep Learning Techniques](#algorithm-level-deep-learning-techniques)
+- [Hybrid Deep Learning Methods](#hybrid-deep-learning-methods)
+- [Model Calibration](#model-calibration)
 
 [Case Studies](#case-studies)
 
