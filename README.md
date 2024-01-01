@@ -78,11 +78,15 @@ Model Calibration
 
 
 ### Data-Level Deep Learning Methods
-Etsy
-Booking
-Wayfair
-Grab
-Cloudflare
+| Application             | Company                                                                                                               | Year |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------|------|
+| Real-Time Personalization | [Etsy](https://www.etsy.com/codeascraft/leveraging-real-time-user-actions-to-personalize-etsy-ads)                     | 2023 |
+| Automated Image Tagging  | [Booking.com](https://booking.ai/automated-image-tagging-at-booking-com-7704f27dcc8b)                                  | 2017 |
+| Shot Angle Prediction    | [Wayfair](https://www.aboutwayfair.com/tech-innovation/shot-angle-prediction-estimating-pose-angle-with-deep-learning-for-furniture-items-using-images-generated-from-3d-models) | 2020 |
+| Data Protection          | [Grab](https://engineering.grab.com/protecting-personal-data-in-grabs-imagery)                                         | 2021 |
+| ML Model Improvement     | [Cloudflare](https://blog.cloudflare.com/data-generation-and-sampling-strategies/)                                     | 2022 |
+
+
 
 ### Algorithm-Level Deep Learning Techniques
 | Technique                | Company                                                                                                           |
