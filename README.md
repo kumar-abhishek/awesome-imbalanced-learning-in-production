@@ -25,7 +25,6 @@ Inspired By [Awesome-System-Design](https://GitHub.com/madd86/awesome-system-des
 
 ## Contents
 
-Data Imbalance introduction
 Oversampling Methods
 Undersampling Methods
 Ensemble Methods
@@ -35,7 +34,6 @@ Data-Level Deep Learning Methods
 Algorithm-Level Deep Learning Techniques
 Hybrid Deep Learning Methods
 Model Calibration
-Machine learning pipeline in production
 
 [Case Studies](#case-studies)
 
@@ -49,6 +47,64 @@ Machine learning pipeline in production
 - [Benchmarks](#benchmarks)
 - [Awesome libraries on Github](#awesome-libraries-on-Github)
 - [Books](#books)
+
+
+### Oversampling Methods
+| Technique            | Company                                                                                             |
+|----------------------|-----------------------------------------------------------------------------------------------------|
+| Random oversampling  | [Grab](https://engineering.grab.com/protecting-personal-data-in-grabs-imagery)                      |
+| SMOTE                | [Microsoft](https://medium.com/data-science-at-microsoft/live-site-incident-escalation-forecast-566763a2178) |
+| Borderline-SMOTE     | [Amazon](https://www.amazon.science/latest-news/deep-learning-machine-learning-computer-vision-applications-reducing-amazon-package-waste), [Paper](https://www.amazon.science/publications/position-paper-reducing-amazons-packaging-wasteusing-multimodal-deep-learning) |
+
+
+### Undersampling Methods
+| Technique              | Company                                                                                         |
+|------------------------|-------------------------------------------------------------------------------------------------|
+| Negative downsampling  | [Meta](https://doi.org/10.1145/2648584.2648589)                                                 |
+| Negative downsampling  | [Microsoft](https://doi.org/10.1145/3041021.3054192)                                            |
+| Negative downsampling  | [Uber](https://www.uber.com/blog/how-uber-optimizes-push-notifications-using-ml)                |
+
+
+### Ensemble Methods
+| Technique                 | Company                                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------------|
+| BalancedBaggingClassifier | [Microsoft](https://medium.com/data-science-at-microsoft/live-site-incident-escalation-forecast-566763a2178) |
+
+### Cost-Sensitive Learning
+| Technique                | Company                                                                                                           |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Cost-sensitive learning  | [Microsoft](https://doi.org/10.1145/3041021.3054192)                                                              |
+| Cost-sensitive learning  | [Airbnb](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789) |
+
+
+### Data-Level Deep Learning Methods
+Etsy
+Booking
+Wayfair
+Grab
+Cloudflare
+
+### Algorithm-Level Deep Learning Techniques
+| Technique                | Company                                                                                                           |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------|
+| DALL·E 2 pre-training mitigations | [OpenAI](https://openai.com/research/dall-e-2-pre-training-mitigations)                                           |
+| BERT for NLP             | [Wayfair](https://www.aboutwayfair.com/tech-innovation/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair) |
+| Focal loss               | [Meta](https://ai.meta.com/blog/community-standards-report)                                                       |
+| Class-balanced loss      | [Apple](https://machinelearning.apple.com/research/mobile-applications-accessible)                                |
+
+### Hybrid Deep Learning Methods
+| Method                    | Company                                                                                       | Year |
+|---------------------------|-----------------------------------------------------------------------------------------------|------|
+| Relational Graph Learning | [Uber](https://www.uber.com/blog/fraud-detection)                                             | 2021 |
+| Graph for Fraud Detection | [Grab](https://engineering.grab.com/graph-for-fraud-detection)                                | 2022 |
+
+
+### Model Calibration
+ | Technique           | Company                                                                                             | Year | 
+|---------------------|-----------------------------------------------------------------------------------------------------|------|
+| Model Calibration   | [Netflix](https://doi.org/10.1145/3240323.3240372)                                                   | 2018 |
+| Model Calibration   | [Meta](https://doi.org/10.1145/2648584.2648589)                                                     | 2014 |
+
 
 ### Case Studies
 
