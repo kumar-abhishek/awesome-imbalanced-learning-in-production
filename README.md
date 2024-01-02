@@ -15,8 +15,6 @@ If you find this content insightful, feel free to support with a ⭐
 
 A search for "Imbalanced data" on Google Scholar yields over [one million results](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=imbalanced+data&btnG=) in total, with approximately [17,000 results](https://scholar.google.com/scholar?as_ylo=2023&q=imbalanced+data&hl=en&as_sdt=0,48) since 2023. This raises a question: Is it merely a popular topic for academic papers, or is it a genuine challenge faced in the industry?
 
-To shed light on this, the book includes several examples of how leading companies like Apple, Meta, and Microsoft have addressed class imbalance issues.
-
 This GitHub repository offers a curated list of resources demonstrating how various companies have successfully tackled the challenge of imbalanced data in production settings. This repository is aimed at being an invaluable resource for professionals/researchers/enthusiasts in machine learning and data science dealing with similar challenges.
 
 
